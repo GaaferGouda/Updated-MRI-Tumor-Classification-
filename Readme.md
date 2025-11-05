@@ -56,7 +56,7 @@ The model assigns scores to each category, and the category with the highest sco
 ## Deployment
 The application is deployed and accessible via Streamlit. You can try it out here:
 
-🔗 **[MRI Tumor Classification Deployment](https://braintumordeployment.streamlit.app/)**
+🔗 **[MRI Tumor Classification Deployment](https://6cubqzh6n8htprf5vcgh5p.streamlit.app/)**
 
 ---
 ---
